@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700');
+
+body, p, a, li, ul, h1, h2, h3, h4 ,h5{margin:0; padding:0;}
+
+body{background:#F2F2F2; font-family:'Roboto Condensed', sans-serif;}
+
+.form-control{border-radius: 0.10rem; }
+
+.headercolor{
+background:url("../images/bg.jpg") no-repeat center center;
+min-height: 150px;
+text-align:center;
+padding-top:40px;
+}
+
+.headercolor h1{
+font-family: 'Roboto Condensed', sans-serif;
+font-size:30px;
+font-weight: bold;
+color:#344347;
+
+}
+
+
+.midhead{background:#fff; color: #0f5c82; line-height: 60px; font-family: 'Roboto Condensed', sans-serif; font-weight: bold; font-size: 1.5rem;}
+
+.whitebox-shadow{box-shadow: 1px 1px 10px rgba(0,0,0,0.1);}
+
+
+.headercolor h4{font-family: 'Roboto Condensed', sans-serif; font-size:16px; color:#344347;}
+
+.main-form-padding
+{
+
+padding: 30px 0 0 0;
+
+}
+
+
+.btn-group.special {
+display: flex;
+}
+
+.special .btn {
+flex: 1
+}
+
+label{font-weight: bold; color:#0f5c82; font-family: 'Roboto Condensed', sans-serif;}
+.main-form-padding .form-row{padding:0 0 20px 0; }
+
+
+::placeholder {
+color:#E7E7E7!important;
+opacity: 1; /* Firefox */
+}
+
+
+.form-control{color:#E7E7E7;}
+
+
+.btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show>.btn-outline-primary.dropdown-toggle
+{
+
+background-color:#009DDC;
+border-color:#009DDC;
+
+
+}
+
+
+.footer{min-height: 100px; margin-top:20px; background: #344347;}
+
+
+.whitetext{color:#F2F2F2; }
