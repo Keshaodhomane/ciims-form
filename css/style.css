@@ -54,22 +54,17 @@ label{font-weight: bold; color:#0f5c82; font-family: 'Roboto Condensed', sans-se
 color:#E7E7E7!important;
 opacity: 1; /* Firefox */
 }
-
-
 .form-control{color:#E7E7E7;}
-
-
 .btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show>.btn-outline-primary.dropdown-toggle
 {
-
 background-color:#009DDC;
 border-color:#009DDC;
-
-
 }
-
-
 .footer{min-height: 100px; margin-top:20px; background: #344347;}
 
-
 .whitetext{color:#F2F2F2; }
+
+.subheading{font-weight:bold; display:inline-block;  line-height:50px; background-color:#009DDC; margin:20px 0; padding:0 100px; color:#fff; border-radius: 5px; font-size:20px;}
+
+.investigation-table span{font-weight: normal; color:#333; font-size:14px;}
+
