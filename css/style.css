@@ -54,7 +54,7 @@ label{font-weight: bold; color:#0f5c82; font-family: 'Roboto Condensed', sans-se
 color:#E7E7E7!important;
 opacity: 1; /* Firefox */
 }
-.form-control{color:#E7E7E7;}
+
 .btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show>.btn-outline-primary.dropdown-toggle
 {
 background-color:#009DDC;
